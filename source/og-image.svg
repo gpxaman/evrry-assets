@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <!-- Open Graph link preview 1200x630. All key content sits inside the centre 1000x500 (x100-1100, y65-565). -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1A3F"/>
+      <stop offset="1" stop-color="#163A8C"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2F6BFF"/>
+      <stop offset="1" stop-color="#1A3FB8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".82" cy=".08" r=".65">
+      <stop offset="0" stop-color="#3DDCFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#3DDCFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="sh" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <path d="M0,480C200,430 360,530 600,485S1000,420 1200,465V630H0Z" fill="#3DDCFF" opacity=".10"/>
+  <path d="M0,530C230,490 400,585 650,540S1030,495 1200,520V630H0Z" fill="#FFFFFF" opacity=".06"/>
+  <path d="M0,575C260,545 440,615 700,580S1060,550 1200,570V630H0Z" fill="#3DDCFF" opacity=".08"/>
+
+  <rect x="205" y="225" width="180" height="180" rx="40" fill="url(#tile)" filter="url(#sh)"/>
+  <g transform="translate(205 225) scale(1.8) translate(50 50) scale(.62) translate(-50 -50)">
+    <path fill="#FFFFFF" d="M26,14H76a6,6 0 0 1 6,6V26a6,6 0 0 1-6,6H40V41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40V68H76a6,6 0 0 1 6,6V80a6,6 0 0 1-6,6H26a8,8 0 0 1-8-8V22a8,8 0 0 1 8-8Z"/>
+    <path fill="#3DDCFF" d="M40,41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40Z"/>
+  </g>
+
+  <g transform="translate(437 203.3) scale(1.55)">
+    <g fill="#FFFFFF">
+      <path transform="translate(-18 0)" d="M26,14H76a6,6 0 0 1 6,6V26a6,6 0 0 1-6,6H40V41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40V68H76a6,6 0 0 1 6,6V80a6,6 0 0 1-6,6H26a8,8 0 0 1-8-8V22a8,8 0 0 1 8-8Z"/>
+      <path transform="translate(76 0)" d="M0,14H22L33,50L44,14H66L44,86H22Z"/>
+      <g transform="translate(150 0)"><path fill-rule="evenodd" d="M0,14H36A22,22 0 0 1 36,58H0Z M22,32H36A4,4 0 0 1 36,40H22Z"/><rect y="14" width="22" height="72"/><path d="M24,50H46L62,86H40Z"/></g>
+      <g transform="translate(222 0)"><path fill-rule="evenodd" d="M0,14H36A22,22 0 0 1 36,58H0Z M22,32H36A4,4 0 0 1 36,40H22Z"/><rect y="14" width="22" height="72"/><path d="M24,50H46L62,86H40Z"/></g>
+      <path transform="translate(294 0)" d="M0,14H22L33,36L44,14H66L44,58V86H22V58Z"/>
+    </g>
+    <path transform="translate(-18 0)" fill="#3DDCFF" d="M40,41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40Z"/>
+  </g>
+  <text x="439" y="395" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="42" font-weight="600" letter-spacing=".5" fill="#CFE0FF">Everything. One Place.</text>
+</svg>

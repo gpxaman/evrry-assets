@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Android adaptive foreground (432px canvas = 108dp). E fits inside the centre 264px (66dp) safe circle. -->
+  <g transform="translate(50 50) scale(.55) translate(-50 -50)">
+    <path fill="#FFFFFF" d="M26,14H76a6,6 0 0 1 6,6V26a6,6 0 0 1-6,6H40V41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40V68H76a6,6 0 0 1 6,6V80a6,6 0 0 1-6,6H26a8,8 0 0 1-8-8V22a8,8 0 0 1 8-8Z"/>
+    <path fill="#3DDCFF" d="M40,41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40Z"/>
+  </g>
+</svg>

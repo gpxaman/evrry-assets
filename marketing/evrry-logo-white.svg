@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 6 376 88">
+  <!-- EVRRY primary horizontal wordmark, white (for dark backgrounds), transparent background -->
+  <g fill="#FFFFFF">
+    <path transform="translate(-18 0)" d="M26,14H76a6,6 0 0 1 6,6V26a6,6 0 0 1-6,6H40V41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40V68H76a6,6 0 0 1 6,6V80a6,6 0 0 1-6,6H26a8,8 0 0 1-8-8V22a8,8 0 0 1 8-8Z"/>
+    <path transform="translate(76 0)" d="M0,14H22L33,50L44,14H66L44,86H22Z"/>
+    <g transform="translate(150 0)">
+      <path fill-rule="evenodd" d="M0,14H36A22,22 0 0 1 36,58H0Z M22,32H36A4,4 0 0 1 36,40H22Z"/>
+      <rect y="14" width="22" height="72"/>
+      <path d="M24,50H46L62,86H40Z"/>
+    </g>
+    <g transform="translate(222 0)">
+      <path fill-rule="evenodd" d="M0,14H36A22,22 0 0 1 36,58H0Z M22,32H36A4,4 0 0 1 36,40H22Z"/>
+      <rect y="14" width="22" height="72"/>
+      <path d="M24,50H46L62,86H40Z"/>
+    </g>
+    <path transform="translate(294 0)" d="M0,14H22L33,36L44,14H66L44,58V86H22V58Z"/>
+  </g>
+  <path transform="translate(-18 0)" fill="#3DDCFF" d="M40,41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40Z"/>
+</svg>

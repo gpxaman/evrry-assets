@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+  <!-- Story / referral share card 1080x1920 (9:16). Content avoids the top and bottom 250px covered by Instagram/WhatsApp UI.
+       Replace YOURCODE with the user's referral code at share time. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2=".35" y2="1">
+      <stop offset="0" stop-color="#1A3FB8"/>
+      <stop offset=".55" stop-color="#0E2560"/>
+      <stop offset="1" stop-color="#0A1A3F"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2F6BFF"/>
+      <stop offset="1" stop-color="#1A3FB8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".85" cy=".05" r=".6">
+      <stop offset="0" stop-color="#3DDCFF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#3DDCFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="sh" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#000000" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect width="1080" height="1920" fill="url(#glow)"/>
+  <path d="M0,1640C260,1580 460,1700 720,1650S1000,1600 1080,1625V1920H0Z" fill="#3DDCFF" opacity=".10"/>
+  <path d="M0,1720C280,1675 480,1785 760,1735S1020,1690 1080,1705V1920H0Z" fill="#FFFFFF" opacity=".06"/>
+  <path d="M0,1800C300,1765 500,1850 780,1810S1030,1775 1080,1790V1920H0Z" fill="#3DDCFF" opacity=".08"/>
+
+  <rect x="430" y="300" width="220" height="220" rx="50" fill="url(#tile)" filter="url(#sh)"/>
+  <g transform="translate(430 300) scale(2.2) translate(50 50) scale(.62) translate(-50 -50)">
+    <path fill="#FFFFFF" d="M26,14H76a6,6 0 0 1 6,6V26a6,6 0 0 1-6,6H40V41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40V68H76a6,6 0 0 1 6,6V80a6,6 0 0 1-6,6H26a8,8 0 0 1-8-8V22a8,8 0 0 1 8-8Z"/>
+    <path fill="#3DDCFF" d="M40,41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40Z"/>
+  </g>
+
+  <g transform="translate(252 567.6) scale(1.6)">
+    <g fill="#FFFFFF">
+      <path transform="translate(-18 0)" d="M26,14H76a6,6 0 0 1 6,6V26a6,6 0 0 1-6,6H40V41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40V68H76a6,6 0 0 1 6,6V80a6,6 0 0 1-6,6H26a8,8 0 0 1-8-8V22a8,8 0 0 1 8-8Z"/>
+      <path transform="translate(76 0)" d="M0,14H22L33,50L44,14H66L44,86H22Z"/>
+      <g transform="translate(150 0)"><path fill-rule="evenodd" d="M0,14H36A22,22 0 0 1 36,58H0Z M22,32H36A4,4 0 0 1 36,40H22Z"/><rect y="14" width="22" height="72"/><path d="M24,50H46L62,86H40Z"/></g>
+      <g transform="translate(222 0)"><path fill-rule="evenodd" d="M0,14H36A22,22 0 0 1 36,58H0Z M22,32H36A4,4 0 0 1 36,40H22Z"/><rect y="14" width="22" height="72"/><path d="M24,50H46L62,86H40Z"/></g>
+      <path transform="translate(294 0)" d="M0,14H22L33,36L44,14H66L44,58V86H22V58Z"/>
+    </g>
+    <path transform="translate(-18 0)" fill="#3DDCFF" d="M40,41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40Z"/>
+  </g>
+  <text x="540" y="790" text-anchor="middle" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="48" font-weight="600" letter-spacing=".5" fill="#CFE0FF">Everything. One Place.</text>
+
+  <rect x="90" y="900" width="900" height="560" rx="44" fill="#FFFFFF" filter="url(#sh)"/>
+  <text x="540" y="1012" text-anchor="middle" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="68" font-weight="700" fill="#0A1A3F">You&#8217;re invited!</text>
+  <text x="540" y="1076" text-anchor="middle" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="34" font-weight="400" fill="#4A5878">Join me on EVRRY with my referral code</text>
+  <rect x="220" y="1140" width="640" height="150" rx="28" fill="#EEF3FF" stroke="#1F4FE0" stroke-width="4" stroke-dasharray="16 12"/>
+  <text x="540" y="1240" text-anchor="middle" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="8" fill="#1F4FE0">YOURCODE</text>
+  <text x="540" y="1376" text-anchor="middle" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="30" font-weight="400" fill="#4A5878">Enter it when you sign up</text>
+
+  <rect x="340" y="1530" width="400" height="96" rx="48" fill="#3DDCFF"/>
+  <text x="540" y="1591" text-anchor="middle" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="38" font-weight="700" fill="#0A1A3F">Get the app</text>
+</svg>

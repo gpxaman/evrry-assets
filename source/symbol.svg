@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="14 10 72 80">
+  <!-- EVRRY "E" symbol, transparent, for use on light backgrounds -->
+  <path fill="#0A1A3F" d="M26,14H76a6,6 0 0 1 6,6V26a6,6 0 0 1-6,6H40V41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40V68H76a6,6 0 0 1 6,6V80a6,6 0 0 1-6,6H26a8,8 0 0 1-8-8V22a8,8 0 0 1 8-8Z"/>
+  <path fill="#1F4FE0" d="M40,41H64a6,6 0 0 1 6,6V53a6,6 0 0 1-6,6H40Z"/>
+</svg>
